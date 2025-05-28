@@ -1,4 +1,4 @@
-# Experiment 6: Joins
+[# Experiment 6: Joins
 
 ## AIM
 To study and implement different types of joins.
@@ -415,3 +415,4 @@ where s.commission>0.12 and c.city<>s.city;
 
 ## RESULT
 Thus, the SQL queries to implement different types of joins have been executed successfully.
+](https://github.com/Rlokeshwar/19CS404-DBMS-Lab-Manual/edit/main/Experiment6_Joins/README.md)
